@@ -3,6 +3,8 @@
 
 A simple web-based password generator.
 
+![password-generator png](pass1.png)
+
 
 ## Features
 
