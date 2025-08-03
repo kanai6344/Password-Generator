@@ -6,7 +6,7 @@ A simple web-based password generator.
 
 ## Live Demo
 
-You can view a live version of this tool at [(https://kanai6344.github.io/Pasword-Generator/)]
+You can view a live version of this tool at [(https://kanai6344.github.io/Password-Generator/)]
 
 ## Features
 
