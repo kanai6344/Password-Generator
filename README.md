@@ -4,6 +4,9 @@ A simple web-based password generator.
 
 ![password-generator png](pass1.png)
 
+## Live Demo
+
+You can view a live version of this tool at [(https://kanai6344.github.io/pasword-generator/)]
 
 ## Features
 
