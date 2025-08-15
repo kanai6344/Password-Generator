@@ -33,3 +33,5 @@ You can view a live version of this tool at [(https://kanai6344.github.io/Passwo
 - `style.css` – Styles for the UI
 - `script.js` – Password generation logic
 - `README.md` – Project information
+
+
